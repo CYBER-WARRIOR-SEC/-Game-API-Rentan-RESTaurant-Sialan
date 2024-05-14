@@ -48,7 +48,7 @@ You just need to find a Chef and follow the steps:
 2. Deploy RESTaurant locally with Docker by executing the following commands:
 
     ```sh
-    git clone https://github.com/theowni/Damn-Vulnerable-RESTaurant-API-Game.git
+    git clone https://github.com/CYBER-WARRIOR-SEC/-Game-API-Rentan-RESTaurant-Sialan
     cd Damn-Vulnerable-RESTaurant-API-Game
     ./start_app.sh
     ```
