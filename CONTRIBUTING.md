@@ -26,7 +26,7 @@ Configuring a development environment is a straightforward process assuming that
 
 2. Clone the repository and change directory to the project root:
     ```sh
-    git clone https://github.com/theowni/Damn-Vulnerable-RESTaurant-API-Game.git
+    git clone https://github.com/CYBER-WARRIOR-SEC/-Game-API-Rentan-RESTaurant-Sialan.git
     cd Damn-Vulnerable-RESTaurant-API-Game
     ```
 
