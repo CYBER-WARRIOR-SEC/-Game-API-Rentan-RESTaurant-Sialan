@@ -11,7 +11,7 @@ This documentation is dedicated for contributors who would like to add new vulne
 The project is developed with the following frameworks and technologies:
 * [Python 3.8](https://www.python.org/downloads/release/python-380/)
 * [Docker](https://www.docker.com/) as a platform for containerisation 
-* [FastAPI](https://github.com/CYBER-WARRIOR-SEC/-Game-API-Rentan-RESTaurant-Sialan) as easy to learn and fast to code web framework
+* [FastAPI](https://github.com/tiangolo/fastapi) as easy to learn and fast to code web framework
 * [PostgreSQL 15.4](https://www.postgresql.org/) as a database
 * [Pytest](https://docs.pytest.org/) for code testing
 * [pre-commit](https://pre-commit.com/) for maintaining hooks for code style and tests
