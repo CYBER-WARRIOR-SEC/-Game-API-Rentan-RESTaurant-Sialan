@@ -26,7 +26,7 @@ For developers, I created a dedicated game where you can identify and fix vulner
 
 2. Start the game by executing the following commands:
 ```sh
-git clone https://github.com/theowni/Damn-Vulnerable-RESTaurant-API-Game.git
+git clone https://github.com/CYBER-WARRIOR-SEC/-Game-API-Rentan-RESTaurant-Sialan
 cd Damn-Vulnerable-RESTaurant-API-Game
 ./start_game.sh
 ```
